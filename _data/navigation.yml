@@ -25,31 +25,6 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
-      tr      : &TR       Hakkında
-      # @end locale config
-    url: /about.html
 docs-en:
   - title:  About
     children:
@@ -62,22 +37,22 @@ docs-en:
   - title: Resources
     children:
     - title: Lecture Slides
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
     - title: Practicals
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
     - title: Study Guide
       url: 2024/01/30/studyGuide.html
     - title: Useful Links
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
 pract-en:
   - title: Practicals
     children:
     - title: Setup and Installation
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
     - title: Practical 1
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
     - title: Practical 2
-      url: /about.html
+      url: 2024/01/02/comingsoon.html
 
 guide-en:
   - title: Study Guides
