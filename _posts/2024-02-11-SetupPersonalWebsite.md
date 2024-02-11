@@ -32,10 +32,10 @@ While students have the flexibility to choose any blog site, we recommend utiliz
    <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-2.png" alt="create new repository">
 
 3. Name the repository as 'yourgithubusername.github.io'.
-   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-3.png" alt="change repository name">
+   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_3.png" alt="change repository name">
 
 4. Clone your repository.
-   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-4.png" alt="clone repository">
+   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_4.png" alt="clone repository">
 
 ### Next Steps
 ```javascript
