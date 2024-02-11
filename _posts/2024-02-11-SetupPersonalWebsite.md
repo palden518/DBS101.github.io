@@ -26,16 +26,16 @@ While students have the flexibility to choose any blog site, we recommend utiliz
 - Follow these steps to set up your blog:
 
 1. Navigate to the template repository.
-   ![Template Repository](/assets/images/repo_1.png)
+   <img src="/assets/images/repo_1.png" alt="template repository">
 
 2. Use the template and create a new repository.
-   ![Create New Repository](/assets/images/repo-2.png)
+   <img src="/assets/images/repo-2.png" alt="create new repository">
 
 3. Name the repository as 'yourgithubusername.github.io'.
-   ![Change Repository Name](/assets/images/repo-3.png)
+   <img src="/assets/images/repo-3.png" alt="change repository name">
 
 4. Clone your repository.
-   ![Clone Repository](/assets/images/repo-4.png)
+   <img src="/assets/images/repo-4.png" alt="clone repository">
 
 ### Next Steps
 ```javascript
@@ -59,7 +59,7 @@ $ cd repo_path
 ```
 Go to config.yml file in the root of the directory and the following details.
 
-![Use the template](/assets/images/repo-5.png)
+<img src="/assets/images/repo-5.png" alt="use the template">
 
 ```javascript
 $ bundle
