@@ -1,7 +1,5 @@
 ---
 title: Setting Up Personal Blog Website for Flipped Classroom Journals
-sidebar:
-  nav: docs-en
 aside:
   toc: true
 ---
