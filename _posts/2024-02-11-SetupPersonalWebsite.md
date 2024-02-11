@@ -26,7 +26,7 @@ While students have the flexibility to choose any blog site, we recommend utiliz
 - Follow these steps to set up your blog:
 
 1. Navigate to the template repository.
-   <img src="/assets/images/repo_1.png" alt="template repository">
+   <img src="https://raw.githubusercontent.com/palden518.github.io/DBS101.github.io/master/assets/images/repo_1.png" alt="template repository">
 
 2. Use the template and create a new repository.
    <img src="/assets/images/repo-2.png" alt="create new repository">
