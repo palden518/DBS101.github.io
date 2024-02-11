@@ -66,7 +66,7 @@ docs-en:
     - title: Practicals
       url: /about.html
     - title: Study Guide
-      url: /about.html
+      url: 2024/01/30/studyGuide.html
     - title: Useful Links
       url: /about.html
 pract-en:
@@ -78,3 +78,13 @@ pract-en:
       url: /about.html
     - title: Practical 2
       url: /about.html
+
+guide-en:
+  - title: Study Guides
+    children:
+    - title: List of Units
+      url: 2024/01/30/studyGuide.html
+    - title: Unit 1
+      url: 2024/02/01/unit1.html
+    - title: Unit 2
+      url: 2024/01/02/comingsoon.html
