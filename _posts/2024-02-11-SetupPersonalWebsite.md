@@ -26,34 +26,40 @@ While students have the flexibility to choose any blog site, we recommend utiliz
 - Follow these steps to set up your blog:
 
 1. Navigate to the template repository.
+   
    <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_1.png" alt="template repository">
 
 2. Use the template and create a new repository.
+   
    <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-2.png" alt="create new repository">
 
 3. Name the repository as 'yourgithubusername.github.io'.
-   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_3.png" alt="change repository name">
+   
+   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_3.png" alt="change repository name" width= 500 height = 400 >
 
 4. Clone your repository.
-   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_4.png" alt="clone repository">
+   
+   <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo_4.png" alt="clone repository" width= 500 height = 400>
 
 ### Next Steps
+#### Open terminal to enter the following commands:
+
 ```javascript
-$ git clone //Your repo link
+$ git clone //Your repo cloning link
 ```
 
-### Install Ruby(Mac)
+#### Install Ruby(Mac)
 
 ```javascript
 $ brew install ruby
 ```
-### Install Ruby(Linux)
+#### Install Ruby(Linux)
 
 ```javascript
 $ sudo apt-get install ruby-full
 ```
 
-### After Installation
+#### After Installation
 ```javascript
 $ cd repo_path
 ```
@@ -64,7 +70,7 @@ Go to config.yml file in the root of the directory and the following details.
 ```javascript
 $ bundle
 ```
-### Push Changes to Github
+#### Push Changes to Github
 
 ```javascript
 $ git add .
