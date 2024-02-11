@@ -53,10 +53,8 @@ header:
 docs-en:
   - title:  About
     children:
-    - title: Module Descriptor 
-      url:  /about.html
     - title: Semester Workplan
-      url: /about.html
+      url: 2024/02/10/semesterworkplan.html
   - title: Timetable
     children:
     - title: Module Timetable
