@@ -50,3 +50,33 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+docs-en:
+  - title:  About
+    children:
+    - title: Module Descriptor 
+      url:  /about.html
+    - title: Semester Workplan
+      url: /about.html
+  - title: Timetable
+    children:
+    - title: Module Timetable
+      url: /about.html
+  - title: Resources
+    children:
+    - title: Lecture Slides
+      url: /about.html
+    - title: Practicals
+      url: /about.html
+    - title: Study Guide
+      url: /about.html
+    - title: Useful Links
+      url: /about.html
+pract-en:
+  - title: Practicals
+    children:
+    - title: Setup and Installation
+      url: /about.html
+    - title: Practical 1
+      url: /about.html
+    - title: Practical 2
+      url: /about.html
