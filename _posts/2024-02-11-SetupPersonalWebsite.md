@@ -59,7 +59,7 @@ $ cd repo_path
 ```
 Go to config.yml file in the root of the directory and the following details.
 
-![Use the template](/blob/master/assets/images/repo-5.png)
+![Use the template](/assets/images/repo-5.png)
 
 ```javascript
 $ bundle
