@@ -46,18 +46,7 @@ While students have the flexibility to choose any blog site, we recommend utiliz
 $ git clone //Your repo cloning link
 ```
 
-#### Install Ruby(Mac)
-
-```javascript
-$ brew install ruby
-```
-#### Install Ruby(Linux)
-
-```javascript
-$ sudo apt-get install ruby-full
-```
-
-#### After Installation
+#### After cloning
 ```javascript
 $ cd repo_path
 ```
@@ -65,9 +54,7 @@ Go to config.yml file in the root of the directory and the following details.
 
 <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-5.png" alt="use the template">
 
-```javascript
-$ bundle
-```
+
 #### Push Changes to Github
 
 ```javascript
@@ -80,8 +67,111 @@ $ git commit -m "first-commit"
 $ git push
 ```
 
+### Opitional: To run website locally
+
+- #### Install Ruby(Mac)
+
+```javascript
+$ brew install ruby
+```
+- #### Install Ruby(Linux)
+
+```javascript
+$ sudo apt-get install ruby-full
+```
+- #### Install ruby(Windows)
+
+[Download installer](https://rubyinstaller.org/)
+
+- #### Check if ruby is installed
+```javascript
+$ ruby -v
+```
+- #### build website locally(Execute this command only once to install dependencies!)
+```javascript
+$ bundle
+```
+
+- #### run website on local server
+```javascript
+$ bundle exec jekyll s
+```
+
+  - #### go to http://localhost:4000 or  http://127.0.0.1:4000 to view your website on local server
+
+### Adding posts to your website
+
+- #### You can also refer [chirpy docs](https://chirpy.cotes.page/posts/write-a-new-post/) to learn how to add posts on your website
+
+#### Add a file with file name YYYY-MM-DD-TITLE.md under _posts folder
+
+Your file should have the .md extension for you to use markdown.
+
+In your case the date should be the date of your flipped class.
+
+Title should be the your  module class and flipped class title, Example; DBS101_FlippedClass1
+
+##### Example file name: 2024-02-12-DBS101_FlippedClass1.md
+
+
+<img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post1.png" alt="add file with name">
+
+
+#### Inside your file, your title, categories and tags should be defined
+
+Your title should be DBS101 Flipped Class [Number]
+
+Example:
+
+Note: Do not omit the horizontal lines, they are important!!!
+
+```javascript
+---
+Title: DBS101 Flipped Class 1
+categories: [DBS101, Flipped_Class1]
+tags: [DBS101]
+---
+```
+
+#### Example file
+
+<img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post2.png" alt="examplefile">
+
+
+#### How your entry will look like on your website
+
+##### Homepage
+<img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post3.png" alt="examplefile">
+
+##### Post page
+<img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post4.png" alt="examplefile">
+
+##### Categories Page
+
+<img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post5.png" alt="examplefile">
+
+
+### Tips!
+
+- #### Change your profile name to your name! It should not show up as chirpy
+
+- #### Use correct file naming conventions, your post should not say MyfirstPost like my demo, it should be your modulecode_FlippedClass{no.}
+
+- #### Try customizing your website, read the instructions on chirpy website:
+[chirpy website guide](https://chirpy.cotes.page/)
+
+- #### Do not forget to push your changes on github else it will not be reflected on your website
+
+### Journal Format
+
+- #### Your journal should be in blog format; should follow a structure whereby you have a blog topic and paragraphs detailing what you did during your flipped class and what you have learned.
+- #### You can refer vides on writing a blog.
+
+
+
 ### Add website link to VLE
 
 After deploying the website, add the website link to the database setup for the module on VLE.
 
 Add your website link as an entry to the database on VLE.
+
