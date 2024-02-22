@@ -130,13 +130,3 @@ After installation test the following commands;
    INSERT INTO student (StudentID,Name,CID,programmeID) VALUES (02319987,'Choden', '17818972541','BESWE')
   ```
 
-  - Check constraints; NOT NULL
-  ```javascript
-   INSERT INTO student (StudentID,Name,CID,programmeID) VALUES (02319987,'Choden', ,'BESWE')
-  ```
-
-  - Check constraints; DATA TYPE Length
-  ```javascript
-   INSERT INTO student (StudentID,Name,CID,programmeID) VALUES (02319987,'Choden','182782782789728927' ,'BESWE')
-  ```
-
