@@ -39,7 +39,7 @@ docs-en:
     - title: Lecture Slides
       url: 2024/01/02/comingsoon.html
     - title: Practicals
-      url: 2024/01/02/comingsoon.html
+      url: 2024/02/20/practicals.html
     - title: Study Guide
       url: 2024/01/30/studyGuide.html
     - title: Useful Links
@@ -48,7 +48,7 @@ pract-en:
   - title: Practicals
     children:
     - title: Setup and Installation
-      url: 2024/01/02/comingsoon.html
+      url: 2024/02/20/setupInstallation.html
     - title: Practical 1
       url: 2024/01/02/comingsoon.html
     - title: Practical 2
