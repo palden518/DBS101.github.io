@@ -14,3 +14,5 @@ aside:
 ## Articles
 
 - ### [ERD and DB Implementation](https://guides.visual-paradigm.com/erd-and-database-implementation-bridging-the-gap-between-concept-and-reality/)
+
+- ### [Posgresql Tutorial](https://www.postgresqltutorial.com/postgresql-python/create-tables/)
