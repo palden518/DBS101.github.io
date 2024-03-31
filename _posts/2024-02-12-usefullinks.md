@@ -20,3 +20,5 @@ aside:
 - ### [Posgresql Tutorial](https://www.postgresqltutorial.com/postgresql-python/create-tables/)
 
 - ### [MongoDB shell cheatsheet](https://assets.contentstack.io/v3/assets/blt39790b633ee0d5a7/blt0aaf1fb48c6c8e78/6499dbb724cb33848b7f303f/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf)
+
+- ### [Storage systems overview](https://blog.bytebytego.com/p/storage-systems-overview)
