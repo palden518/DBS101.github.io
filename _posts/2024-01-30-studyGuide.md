@@ -16,12 +16,12 @@ This guide is designed to help you navigate through the course material, underst
 ## Units
 
 1. [Unit I: Introduction to Database Systems](https://palden518.github.io/DBS101.github.io/2024/02/01/unit1.html)
-2. [Unit II: Database Design](https://palden518.github.io/DBS101.github.io/2024/01/02/comingsoon.html)
-3. Unit III: Introduction to SQL
-4. Unit IV: Intermediate and Advanced SQL
+2. [Unit II: Database Design](https://palden518.github.io/DBS101.github.io/2024/02/20/unit2.html)
+3. [Unit III: Introduction to SQL](https://palden518.github.io/DBS101.github.io/2024/03/02/unit3.html)
+4. [Unit IV: Intermediate and Advanced SQL](https://palden518.github.io/DBS101.github.io/2024/03/02/unit4.html)
 5. Unit V: Relational Database Design
-6. Unit VI: Non-Relational Databases
-7. Unit VII: Database Storage Structures
+6. [Unit VI: Non-Relational Databases](https://palden518.github.io/DBS101.github.io/2024/03/02/unit3.html)
+7. [Unit VII: Database Storage Structures](https://palden518.github.io/DBS101.github.io/2024/03/02/unit7.html)
 8. Unit VIII: Indexing
 9. Unit IX: Query Processing and Optimization
 10. Unit X: Transactions
