@@ -25,4 +25,6 @@ aside:
 - ### [Storage systems overview](https://blog.bytebytego.com/p/storage-systems-overview)
 - ### [Redis crash course](https://developer.redis.com/develop/node/node-crash-course/)
 
-  
+- ### [Try Redis](https://try.redis.io/)
+
+- ### [Factors to Consider in Database Selection](https://blog.bytebytego.com/p/factors-to-consider-in-database-selection)
