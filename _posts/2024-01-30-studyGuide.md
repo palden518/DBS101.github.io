@@ -22,7 +22,7 @@ This guide is designed to help you navigate through the course material, underst
 5. [Unit V: Relational Database Design](https://palden518.github.io/DBS101.github.io/2024/03/02/unit5.html)
 6. [Unit VI: Non-Relational Databases](https://palden518.github.io/DBS101.github.io/2024/03/02/unit6.html)
 7. [Unit VII: Database Storage Structures](https://palden518.github.io/DBS101.github.io/2024/03/02/unit7.html)
-8. Unit VIII: Indexing
+8. [Unit VIII: Indexing](https://palden518.github.io/DBS101.github.io/2024/04/28/unit8.html)
 9. Unit IX: Query Processing and Optimization
 10. Unit X: Transactions
 11. Unit XI: Concurrency Control
