@@ -5,10 +5,10 @@ aside:
 ---
 
 ## Introduction
-As a part of the module requirements, all students must create a personal blog website to document their flipped classroom experiences and insights.
+As a part of the module requirements, all students must create a personal learning blog website to document their flipped classroom experiences and insights.
 
 ## Journals
-Students are expected to compose reflective blog entries detailing what they have learned during the flipped classroom sessions. 
+Students are expected to compose reflective blog entries detailing what they have learned from  
 
 The evaluation criteria include the quality of content and language proficiency.
 
