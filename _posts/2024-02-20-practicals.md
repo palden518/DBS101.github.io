@@ -17,7 +17,7 @@ This continuous assessment will cover all of the learning outcomes and topics co
 This continuous assessment will be assessed based on the following criteria:
 
 - Timely Submission (5%)
-- Technical correctness (10%)
-- Completion of lab tasks (15%)
-- Explanation clarity (5%)
-- language Summary analysis identifying key lessons(5%)
+- Report Quality(organisation, clarity of writing) (10%)
+- Completion of tasks (20%)
+- Summary analysis identifying key lessons  (5%)
+
