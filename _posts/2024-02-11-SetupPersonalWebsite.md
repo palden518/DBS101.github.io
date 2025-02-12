@@ -5,14 +5,13 @@ aside:
 ---
 
 ## Introduction
-As a part of the module requirements, all students must create a personal learning blog website to document their flipped classroom experiences and insights.
-
+As a part of the module requirements, all students must create a personal learning blog website to document what they have learned from a unit.
 ## Journals
-Students are expected to compose reflective blog entries detailing what they have learned from  
+Students are expected to compose reflective blog entries detailing what they have learned from the unit within 7 days of completing the unit in class.
 
 The evaluation criteria include the quality of content and language proficiency.
 
-For this module, students are tasked with completing 12 journal entries corresponding to 12 flipped class sessions. 
+For this module, students are tasked with completing 6 journal entries corresponding to 6 Units of the module. 
 
 This component contributes 10% towards the overall grade.
 
@@ -165,7 +164,7 @@ tags: [DBS101]
 ### Journal Format
 
 - #### Your journal should be in blog format; should follow a structure whereby you have a blog topic and paragraphs detailing what you did during your flipped class and what you have learned.
-- #### You can refer vides on writing a blog.
+- #### You can refer videos on writing a blog.
 
 
 
