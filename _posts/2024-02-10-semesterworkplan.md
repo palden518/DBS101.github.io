@@ -44,7 +44,7 @@ This module aims to provide a comprehensive understanding of database systems, c
   
 
 ### Practical Assignment: (30%)
-  #### Over 13 weeks (Weeks 2-15), student groups of 3-4 will design a database and implement optimizations demonstrating best practices in database design, performance tuning, and reliable recovery. This continuous assessment will cover all learning outcomes and content from Units I–XIII.
+  #### Over 13 weeks (Weeks 2-15), student groups of 3-4 will design a database and implement optimizations demonstrating best practices in database design, performance tuning, and reliable recovery. This continuous assessment will cover all learning outcomes and content from Units I–VI.
   - #### In the 2nd week, groups will submit a business process based on which they will design their database. The assignment has 2 stages with distinct requirements:
 
   #### Stage 1(Week 4)- Database Design (10%)
@@ -57,7 +57,7 @@ This module aims to provide a comprehensive understanding of database systems, c
 
   #### Stage 2 (Week 13) - Implementation (20%)
   - Students will implement their database design using relational databases and will do a presentation on their work.
-  - The students will be assessed based on their understanding of the learning outcomes III-IX and are covered in units: III - VI
+  - The students will be assessed based on their understanding of the learning outcomes III-VI and are covered in units: III - VI
   - The report will be assessed on the following criteria: 
     - Report Quality(organisation, clarity of writing) 	- 4.0%
     - Content						- 4.0%
@@ -79,8 +79,8 @@ This module aims to provide a comprehensive understanding of database systems, c
     - Completion of l tasks					- 20.0%
     - Summary analysis identifying key lessons 		- 5.0%
 
-- ### Flipped Classroom Journals: (10%)
-  - Students will maintain a personal website where they will be required to write blog posts on module content for each unit. They will actively participate in updating the blogs after the completion of each unit in class. Each blog post will be graded out of 10 marks, cumulative across the 9 entries. The final total will be converted to an overall 10% of the grade. The following criteria will be used to assess them.
+- ### Learning Portfolio: (10%)
+  - Students will maintain a personal website where they will be required to write blog posts on module content for each unit. They will actively participate in updating the blogs after the completion of each unit in class. Each blog post will be graded out of 10 marks, cumulative across the 6 entries. The final total will be converted to an overall 10% of the grade. The following criteria will be used to assess them.
 
   - This continuous assessment will be assessed based on the following criteria:
     - Concept Exposition 		- 5.0%
