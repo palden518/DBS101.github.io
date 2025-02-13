@@ -1,5 +1,5 @@
 ---
-title: Setting Up Personal Blog Website for Flipped Classroom Journals
+title: Setting Up  A Personal Blog Website 
 aside:
   toc: true
 ---
