@@ -88,13 +88,11 @@ This module aims to provide a comprehensive understanding of database systems, c
 
 ## Key Dates and Activities
 
-| SL No.      | Assignment                                                               | Unit              | Type       | Weighting | Timeline  |
-| ----------- | ------------------------------------------------------------------------ | ----------------- | ---------- | --------- | --------- |
-| Assign Date | Submission Date                                                          | Return Date
-
-<br> |
-| 1           | Practical Assignment(Topic Submission)                                   | 1-3               |   Group    | NA        | 1st March | 10th March | NA |
-| 2           | MID TERM                                                                 | 1-4               | Individual | 10%       | April 4th |
-| 3           | Practical Assignment (Stage 1)                                           | 1-3               |   Group    | 10%       | 1st March | 31st March | 7th April |
-| 4           | Class Quiz                                                               | 1-5               | Individual | 10%       | 5th May   |
-| 5           | Practical Assignment (Stage 2 - Report Submission and Demo Presentation) | 1-6               |   Group    | 10%       | 1st March | May 20th |
+| SL No. | Assignment                                                               | Unit | Type       | Weighting | Timeline    |                 |             |
+|--------|--------------------------------------------------------------------------|------|------------|-----------|-------------|-----------------|-------------|
+|        |                                                                          |      |            |           | Assign Date | Submission Date | Return Date |
+| 1      | Practical Assignment(Topic Submission)                                   | 1-3  |    Group   | NA        | 1st March   | 10th March      | NA          |
+| 2      | MID TERM                                                                 | 1-4  | Individual | 10%       | April 4th   |                 |             |
+| 3      | Practical Assignment (Stage 1)                                           | 1-3  |    Group   | 10%       | 1st March   | 31st March      |  7th April  |
+| 4      | Class Quiz                                                               | 1-5  | Individual | 10%       | 5th May     |                 |             |
+| 5      | Practical Assignment (Stage 2 - Report Submission and Demo Presentation) | 1-6  |    Group   | 10%       | 1st March   | May 20th        |             |
