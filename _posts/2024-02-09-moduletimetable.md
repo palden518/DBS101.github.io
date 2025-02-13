@@ -6,8 +6,8 @@ aside:
   toc: true
 ---
 
-|   DAY   |        TIME  PERIOD     |                   |         
-|:-------:|:-----------------:|:-----------------:|
-| MONDAY  | 1:30 PM - 2:30 PM | 2:30 PM - 3:30 PM |                  
-| TUESDAY | 1:30 PM - 2:30 PM | 2:30 PM - 3:30 PM |  
-| WEDNESDAY | 1:30 PM - 2:30 PM | 2:30 PM - 3:30 PM | 
+|   DAY   |        TIME  PERIOD     |                            
+|:-------:|:-----------------:|
+| MONDAY  | 8:00 AM - 10:00 AM                     
+| TUESDAY | 8:00 AM - 10:00 AM                      
+| WEDNESDAY | 2:15 PM - 4:15 PM                   
