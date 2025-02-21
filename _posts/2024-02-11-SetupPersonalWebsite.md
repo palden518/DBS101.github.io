@@ -114,11 +114,11 @@ $ bundle exec jekyll s
 
 Your file should have the .md extension for you to use markdown.
 
-In your case the date should be the date of your flipped class.
+In your case the date should be the date you have uploaded your blog.
 
-Title should be the your  module class and flipped class title, Example; DBS101_FlippedClass1
+Title should be the your  module class and unit number, Example; DBS101_Unit1
 
-##### Example file name: 2024-02-12-DBS101_FlippedClass1.md
+##### Example file name: 2024-02-12-DBS101_Unit1.md
 
 
 <img src="https://raw.githubusercontent.com/palden518/DBS101.github.io/master/assets/images/repo-post1.png" alt="add file with name">
@@ -126,7 +126,7 @@ Title should be the your  module class and flipped class title, Example; DBS101_
 
 #### Inside your file, your title, categories and tags should be defined
 
-Your title should be DBS101 Flipped Class [Number]
+Your title should be DBS101 Unit [Number]
 
 Example:
 
@@ -134,8 +134,8 @@ Note: Do not omit the horizontal lines, they are important!!!
 
 ```javascript
 ---
-Title: DBS101 Flipped Class 1
-categories: [DBS101, Flipped_Class1]
+Title: DBS101 Unit 1
+categories: [DBS101, Unit1]
 tags: [DBS101]
 ---
 ```
@@ -162,7 +162,7 @@ tags: [DBS101]
 
 - #### Change your profile name to your name! It should not show up as chirpy
 
-- #### Use correct file naming conventions, your post should not say MyfirstPost like my demo, it should be your modulecode_FlippedClass{no.}
+- #### Use correct file naming conventions, your post should not say MyfirstPost like my demo, it should be your modulecode_Unit{no.}
 
 - #### Try customizing your website, read the instructions on chirpy website:
 [chirpy website guide](https://chirpy.cotes.page/)
@@ -171,7 +171,7 @@ tags: [DBS101]
 
 ### Journal Format
 
-- #### Your journal should be in blog format; should follow a structure whereby you have a blog topic and paragraphs detailing what you did during your flipped class and what you have learned.
+- #### Your journal should be in blog format; should follow a structure whereby you have a blog topic and paragraphs.
 - #### You can refer videos on writing a blog.
 
 
