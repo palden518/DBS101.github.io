@@ -15,6 +15,14 @@ For this module, students are tasked with completing 6 journal entries correspon
 
 This component contributes 10% towards the overall grade.
 
+## What you are expected to write in your blogs
+
+1. Key takeways from the unit
+2. What you learned and why it matters
+3. Personal Growth and Reflection
+
+### Note: Please not that the above are not section headings for your blog, they are just content that need to be included in your blog discussions.
+
 ## Recommended Blog Site Template
 While students have the flexibility to choose any blog site, we recommend utilizing the following blog starter repository for ease of setup:
 
