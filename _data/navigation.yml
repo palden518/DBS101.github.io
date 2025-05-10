@@ -59,22 +59,17 @@ pract-en:
       url: 2025/03/11/practical3.html
     - title: Practical 4
       url: 2025/03/27/practical4.html
-    # - title: Practical 5
-    #   url: 2024/03/11/practical5.html
-    # - title: Practical 6
-    #   url: 2024/03/12/practical6.html
-    # - title: Practical 7
-    #   url: 2024/04/01/practical7.html
-    # - title: Practical 8
-    #   url: 2024/04/14/practical8.html
+    - title: Practical 5
+      url: 2025/04/15/practical5.html
+    - title: Practical 6
+      url: 2025/04/24/practical6.html
+    - title: Practical 7
+      url: 2025/04/28/practical7.html
+    - title: Practical 8
+      url: 2025/05/10/practical8.html
     # - title: Practical 9
     #   url: 2024/04/20/practical9.html
-    # - title: Practical 10
-    #   url: 2024/05/04/practical10.html
-    # - title: Practical 11
-    #   url: 2024/05/11/practical11.html
-    # - title: Practical 12
-    #   url: 2024/05/23/practical12.html
+    
 
 
 guide-en:
